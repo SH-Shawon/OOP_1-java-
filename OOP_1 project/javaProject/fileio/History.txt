@@ -1,0 +1,7 @@
+1 has paid amount 100.0 from account number 1
+1 has deposited amount 1.0 in account number 1
+1 has paid amount 2.0E8 from account number 1
+1 has paid amount 2000000.0 from account number 1
+2 has deposited amount 120.0 in account number 2
+2 has paid amount 20.0 from account number 2
+2 has paid amount 200.0 from account number 2
